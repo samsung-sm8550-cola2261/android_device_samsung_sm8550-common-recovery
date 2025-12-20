@@ -12,7 +12,7 @@ https://github.com/samsung-sm8550/kernel_samsung_sm8550-common/tree/android13-5.
 
 ## How to clone repository: 
 ```bash
-git clone -b twrp-12.1 https://github.com/samsung-sm8550-cola2261/android_device_samsung_sm8550-common.git device/samsung/sm8550-common
+git clone -b fox_12.1 https://github.com/samsung-sm8550-cola2261/android_device_samsung_sm8550-common.git device/samsung/sm8550-common
 ```
 
 ## Special Thanks:

@@ -26,4 +26,4 @@ OF_FLASHLIGHT_ENABLE := 1
 OF_FL_PATH1 := /sys/class/leds/torch-sec1
 
 # Bind mount /data/media/0 to /sdcard after data format
-OF_BIND_MOUNT_SDCARD_ON_FORMAT := 1
+# OF_BIND_MOUNT_SDCARD_ON_FORMAT := 1
